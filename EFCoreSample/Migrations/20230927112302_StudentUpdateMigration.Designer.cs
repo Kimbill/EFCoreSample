@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EFCoreSample.Migrations
 {
     [DbContext(typeof(EFSampleDbContext))]
-    [Migration("20230926094628_StudentUpdateMigration")]
+    [Migration("20230927112302_StudentUpdateMigration")]
     partial class StudentUpdateMigration
     {
         /// <inheritdoc />
